@@ -1,0 +1,23 @@
+{
+  "name": "master-server-urls",
+  "version": "1.0.0",
+  "description": "A module which exports a master configuration containing server names of all api or web servers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/v1rt/master-server-urls.git"
+  },
+  "keywords": [
+    "reactjs",
+    "mobx"
+  ],
+  "author": "Neil Camara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/v1rt/master-server-urls/issues"
+  },
+  "homepage": "https://github.com/v1rt/master-server-urls#readme"
+}
