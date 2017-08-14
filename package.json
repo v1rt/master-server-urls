@@ -1,6 +1,6 @@
 {
   "name": "master-server-urls",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A module which exports a master configuration containing server names of all api or web servers",
   "main": "index.js",
   "scripts": {
